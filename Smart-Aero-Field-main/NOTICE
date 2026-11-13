@@ -1,0 +1,11 @@
+Smart Aero Field
+Copyright 2026 Scarlet (NASA Space Apps Challenge)
+
+This product includes software developed by Scarlet
+for the NASA International Space Apps Challenge 2026.
+
+This project incorporates and builds upon:
+1. NASA POWER Agroclimatology Methodology (MERRA-2 and GEOS-5 FP-IT data assimilation)
+2. NASA Global Precipitation Measurement (GPM) IMERG constellation dataset
+3. NASA MODIS Terra/Aqua Land Surface Temperature and NDVI telemetry
+4. Bangladesh Rice Research Institute (BRRI) & BARC agricultural standards
